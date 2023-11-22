@@ -1,1 +1,2 @@
-# BD2Obligatorio
+Obligatorio realizado en Universidad ORT, en la materia Base de Datos 2. Se trata de una base de datos creada en Microsoft SQL Server Management Studio, con el objetivo de modelar competiciones de atletismo.
+Herramientas utilizadas: SQL, T-SQL, DDL, y Triggers.
